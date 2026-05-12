@@ -1,4 +1,6 @@
 # speech-synthsizer
+TODO: The specifications of the project have to be reworked into something that is better and more specific so that I can start programming it. In the meantime, I'll make a simpler version of the speech synthesizer that actually produces a result.
+
 A fully parametric speech synthesizer where one can understand what each and every component does to achieve the minimum required to synthesize speech that sounds good.
 In short, this is a "fully parametric virtual talkbox" with its own "virtual vocal chords and lungs".
 Generally made just using whatever stuff I want and whatever sounds good. It's not a rigorous, formal project.
